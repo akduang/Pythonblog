@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     
     #add app url
-    path('article/', include('article.urls', namespace='article'))
+    path('article/', include('article.urls', namespace='article')),
 ]
