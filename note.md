@@ -5,3 +5,7 @@ https://www.liaoxuefeng.com/wiki/1016959663602400/1019273143120480
 
 关于django运行时报错UnicodeDecodeError: 'gbk' codec can't decode byte 0xa6 in position 9737: illegal multib
 https://blog.csdn.net/jiaweide123/article/details/90701302
+
+bug
+endfor结尾问题
+title 不是tittle title title title
