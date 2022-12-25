@@ -27,8 +27,8 @@ def article_detail(request, id):
   #渲染html
   article.body = markdown.markdown(article.body,
     extensions=[
-      'markdown.extensions.extra',
-      'markdown.extensions.codehilite',
+      # 'markdown.extensions.extra',
+      # 'markdown.extensions.codehilite',
     ]
   )
   #需要传递给模板的对象
